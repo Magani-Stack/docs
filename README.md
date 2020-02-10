@@ -1,1 +1,3 @@
-# docs
+# Magani
+
+## API Testing Tool
