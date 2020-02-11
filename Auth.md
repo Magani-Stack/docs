@@ -1,0 +1,4 @@
+# Auth
+
+* Basic auth configuration
+
