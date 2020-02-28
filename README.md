@@ -46,5 +46,5 @@ Please follow the style of the existing codebase.
 For Python code, Magani follows PEP 8 with one exception: lines can be up to 120 characters in length, not 79.
 
 
-### [Learn More](https://github.com/Magani-Stack/docs/blob/master/Tour/Create_Project.md)
+### [Learn More](Tour/Create_Project.md)
 
