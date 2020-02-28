@@ -39,14 +39,14 @@ Create test cases and test in project level as well as test case level. Only Pub
 
 Click create project button to create project
 
-![Create Project](https://github.com/Magani-Stack/docs/tree/master/data/images/Screenshot_160.jpg)
+![Create Project](../data/images/Screenshot_160.jpg)
 
 
 ### Step 2
 
 Enter the Project name and Description then click create.
 
-![Project name and Description](https://github.com/Magani-Stack/docs/tree/master/data/images/Screenshot_161.jpg)
+![Project name and Description](../data/images/Screenshot_161.jpg)
 
 ### Limits
 
@@ -59,20 +59,20 @@ Enter the Project name and Description then click create.
 
 Click on Project bar 
 
-![Project bar](https://github.com/Magani-Stack/docs/blob/master/data/images/Screenshot_163.jpg)
+![Project bar](../data/images/Screenshot_163.jpg)
 
 
 ### Step 2 :
 
 Click + icon in the page to create test cases
 
-![+](https://github.com/Magani-Stack/docs/blob/master/data/images/Screenshot_164.jpg)
+![+](../data/images/Screenshot_164.jpg)
 
 ### Step 3 :
 
 Create test case by entering details.
 
-![Test Case](https://github.com/Magani-Stack/docs/blob/master/data/images/Screenshot_166.jpg)
+![Test Case](../data/images/Screenshot_166.jpg)
 
 
 
